@@ -1,7 +1,8 @@
 body {
-    background-color: green;
+    background-color: black;
 }
 
 p {
     color: violet;
+    display: flex;
 }
